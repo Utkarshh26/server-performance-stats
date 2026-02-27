@@ -1,6 +1,6 @@
 # Server Performance Stats
 
-Project URL: https://github.com/Utkarshh26/server-performance-stats
+Project URL: https://roadmap.sh/projects/server-stats
 
 ## About This Project
 
